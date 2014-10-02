@@ -76,3 +76,5 @@ P.S.
 
 Пользователю https://github.com/ewancoder за перекодировку файлов в utf-8. https://github.com/SychevIgor/git_quiz/issues/2 
 
+Пользователю https://github.com/sobolevstp за часть по переводу на английский https://github.com/SychevIgor/git_quiz/issues/7 и за работу с smartgit https://github.com/SychevIgor/git_quiz/issues/5  
+
